@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Racha Ejercicio</string>
+    <string name="title_activity_main">Racha Ejercicio</string>
+    <string name="package_name">com.racha.ejercicio</string>
+    <string name="custom_url_scheme">com.racha.ejercicio</string>
+</resources>
